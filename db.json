@@ -1,0 +1,175 @@
+{
+  "Expert":[
+	{
+	  "id": 1,
+	  "Name": "DR. Isma Masood",
+	  "Email": "ismamasood@szabist-isb.pk",
+	  "Qualification": "Software Engineering, Computer Science",
+	  "Research Area": "Computer Based Learning, Quality in Higher Educarion",
+	  "Proffessor at": "SZABIST",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 2,
+	  "Name": "DR. Saima Jawad",
+	  "Email": "saima@bahria.pk",
+	  "Qualification": "Computer Science, System Engineering",
+	  "Research Area": "Computer Based Learning, Quality in Higher Educarion",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 3,
+	  "Name": "DR. Sabina Akhtar",
+	  "Email": "sabina.buic@bahria.pk",
+	  "Qualification": "Software Engineering",
+	  "Research Area": "Distributed Algorithms, Formula Methods, Model Checking",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 4,
+	  "Name": "DR. Momina Moetesum",
+	  "Email": "momina.buic@bahria.pk",
+	  "Qualification": "Computer Science",
+	  "Research Area": "Deep Learning, Digital Image Processing",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 5,
+	  "Name": "DR. Fatima Khalique",
+	  "Email": "fkhalique.buic@bahria.pk",
+	  "Qualification": "Software Engineering, Computer Science",
+	  "Research Area": "Data Science, Machine Learning, Health Informatic",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 6,
+	  "Name": "DR. Erum Ashraf",
+	  "Email": "sabina.buic@bahria.pk",
+	  "Qualification": "Software Engineering",
+	  "Research Area": "Software Engineering",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 7,
+	  "Name": "DR. Maryam Khalid Multani",
+	  "Email": "maryam.buic@bahria.pk",
+	  "Qualification": "Internet of Things, Network Technology, Computer Software Engineering",
+	  "Research Area": "Internet of Things, Networking",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 8,
+	  "Name": "DR. Anum Kaleem",
+	  "Email": "anumkaleem.buic@bahria.pk",
+	  "Qualification": "Software Engineering",
+	  "Research Area": "Software Engineering",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 9,
+	  "Name": "DR. Umarah Qaseem",
+	  "Email": "umarahqaseem.buic@bahria.pk",
+	  "Qualification": "Robotic and Intelligent Machine Engineering, Computer Science",
+	  "Research Area": "Robotic, Deep Learning, Computer Vision, Natural Language Processing, Artifical Intelligence",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 10,
+	  "Name": "DR. Sabira Feroz",
+	  "Email": "sabira.buic@bahria.pk",
+	  "Qualification": "Computer Science, Information Technology",
+	  "Research Area": "Software Engineering, Agail methodology and Regression Testing",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 11,
+	  "Name": "DR. Helen Magill White",
+	  "Email": "HeleMagillWhite@gmail.com",
+	  "Qualification": "PHD In Computer Science",
+	  "Proffessor at": "Boston University",
+	  "Location": "Boston"
+	},
+	{
+	  "id": 12,
+	  "Name": "DR. Seahr Zeast",
+	  "Email": "drseahrzeast@gmail.com",
+	  "Qualification": "PHD In Information Technology",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 13,
+	  "Name": "DR. Dang Chie Oanh",
+	  "Email": "drdangchieoanh@gmail.com",
+	  "Qualification": "PHD In Project Management",
+	  "Proffessor at": "Boston University",
+	  "Location": "Boston"
+	},
+	{
+	  "id": 14,
+	  "Name": "DR. Marie Roth",
+	  "Email": "drmarieroth@gmail.com",
+	  "Qualification": "PHD In Management Science",
+	  "Proffessor at": "University of London",
+	  "Location": "London"
+	},
+		{
+	  "id": 15,
+	  "Name": "DR. Sue Cowley",
+	  "Email": "drsuecowley@gmail.com",
+	  "Qualification": "PHD In Software Engineering",
+	  "Proffessor at": "SZABIST",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 16,
+	  "Name": "DR. Starr Sackstein",
+	  "Email": "StarrSackstein@gmail.com",
+	  "Qualification": "PHD In Computer Science",
+	  "Proffessor at": "Boston University",
+	  "Location": "Boston"
+	},
+	{
+	  "id": 17,
+	  "Name": "DR. Annie Brock",
+	  "Email": "AnnieBrock@gmail.com",
+	  "Qualification": "PHD In Information Technology",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	},
+	{
+	  "id": 18,
+	  "Name": "DR. Adjima Thaitrong",
+	  "Email": "AdjimaThaitrong@gmail.com",
+	  "Qualification": "PHD In Project Management",
+	  "Proffessor at": "Boston University",
+	  "Location": "Boston"
+	},
+	{
+	  "id": 19,
+	  "Name": "DR. Hanan Al Hroub",
+	  "Email": "HananAlHroub@gmail.com",
+	  "Qualification": "PHD In Management Science",
+	  "Proffessor at": "University of London",
+	  "Location": "London"
+	},
+	{
+	  "id": 20,
+	  "Name": "DR. Sumaira Kausar",
+	  "Email": "sumairakausar.buic@bahria.pk",
+	  "Qualification": "Pattern Classification, Pattern Classification and Image Analysis, Computer Science",
+	  "Research Area": "Machine Learning, Pattern recognition, Image Analysis, Artifical Intelligence",
+	  "Proffessor at": "Bahria University",
+	  "Location": "Islamabad"
+	}
+  ]
+}
